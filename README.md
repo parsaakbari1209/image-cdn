@@ -1,6 +1,7 @@
 ## How to run
 Run the following commands to start the app on `127.0.0.1:8080`:
 ```
+git clone git@github.com:parsaakbari1209/image-cdn.git
 npm install
 npm run dev
 ```
